@@ -32,6 +32,18 @@ yarn-error.log*
 
 # env files (can opt-in for committing if needed)
 .env*
+.env.local
+
+# Test files
+cookies.txt
+test-db.js
+create-user.js
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
 
 # vercel
 .vercel
